@@ -7,7 +7,7 @@ export const SettingsCardContent = () => {
     <div className='w-full flex flex-col gap-3 text-base-content'>
       <div className='collapse collapse-open bg-base-200'>
         <label className='collapse-title text-md font-medium'>
-          HTML Content
+          HTML 内容
         </label>
 
         <ContentEditor />
